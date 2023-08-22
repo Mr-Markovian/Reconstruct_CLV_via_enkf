@@ -2,8 +2,8 @@ The follow repository contains the ".py" files in the following structure
 model-i is a place holder for different systems "L63" and "L9610", "L9620" and "L9640" repectively.
 
 ### The directory structure is as follows:
-'''bash
-ENKF_FOR_CLV2/  
+
+```bash ENKF_FOR_CLV2/  
 ├── README.md  
 ├── codes/  
 │   └── model-i/  
@@ -25,7 +25,7 @@ ENKF_FOR_CLV2/
 │       ├──  img2.pdf  
 |       ├──  .....  
 |       └──  imgN.pdf  
-'''
+```
 ## To perform the numerical experiments and produce the final plots for a specific model, we need to run the following set of scripts in sequence.
 
 ## Sensitivity of LVs using perturbed trajectories:
