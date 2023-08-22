@@ -1,0 +1,17 @@
+# Ignoring files
+
+data/Chua/
+data/Halvorsen/
+data/Rossler/
+data/Thomas/
+
+codes/notebooks
+codes/others
+codes/sensitivity_codes
+codes/_*
+
+paper/
+
+plots/Rooler/
+plots/Thomas/
+
