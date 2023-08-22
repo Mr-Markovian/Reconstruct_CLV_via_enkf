@@ -3,28 +3,28 @@ model-i is a place holder for different systems "L63" and "L9610", "L9620" and "
 
 ### The directory structure is as follows:
 
-ENKF_FOR_CLV2/
-├── README.md
-├── codes/
-│   └── model-i/
-│       ├── file1.py
-│       ├──  file2.py
-|       ├──  .....
-|       └──  fileN.py
-|
-├── data/
-|   └──model-i
-│       ├── file1.npy
-│       ├── file2.npy
-|       ├── .....
-|       └── fileN.npy
-|
-├── plots/
-│   └── model-i/
-│       ├──  img1.pdf
-│       ├──  img2.pdf
-|       ├──  .....
-|       └──  imgN.pdf
+ENKF_FOR_CLV2/  
+├── README.md  
+├── codes/  
+│   └── model-i/  
+│       ├── file1.py  
+│       ├──  file2.py  
+|       ├──  .....  
+|       └──  fileN.py  
+|  
+├── data/  
+|   └──model-i  
+│       ├── file1.npy  
+│       ├── file2.npy  
+|       ├── .....  
+|       └── fileN.npy  
+|  
+├── plots/  
+│   └── model-i/  
+│       ├──  img1.pdf  
+│       ├──  img2.pdf  
+|       ├──  .....  
+|       └──  imgN.pdf  
 
 ## To perform the numerical experiments and produce the final plots for a specific model, we need to run the following set of scripts in sequence.
 
