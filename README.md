@@ -24,7 +24,8 @@ model-i is a place holder for different systems "L63" and "L9610", "L9620" and "
 │       ├──  img1.pdf  
 │       ├──  img2.pdf  
 |       ├──  .....  
-|       └──  imgN.pdf  
+|       └──  imgN.pdf
+└──  .gitignore
 ```
 ## To perform the numerical experiments and produce the final plots for a specific model, we need to run the following set of scripts in sequence.
 
