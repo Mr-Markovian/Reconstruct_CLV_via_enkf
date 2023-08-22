@@ -2,7 +2,7 @@ The follow repository contains the ".py" files in the following structure
 model-i is a place holder for different systems "L63" and "L9610", "L9620" and "L9640" repectively.
 
 ### The directory structure is as follows:
-'''
+'''bash
 ENKF_FOR_CLV2/  
 ├── README.md  
 ├── codes/  
