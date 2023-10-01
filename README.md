@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/577597710.svg)](https://zenodo.org/badge/latestdoi/577597710)
 The follow repository contains the ".py" files in the following structure
 model-i is a place holder for different systems "L63" and "L9610", "L9620" and "L9640" repectively.
 
